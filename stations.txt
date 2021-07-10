@@ -1,0 +1,1356 @@
+Oxford Circus
+2 Green Park
+1 Warren Street
+1 Regents Park
+3 Piccadilly Circus
+2 Bond Street
+2 Tottenham Court Road
+
+Green Park
+2 Victoria
+2 Oxford Circus
+2 Hyde Park Corner
+1 Piccadilly Circus
+2 Bond Street
+2 Charing Cross
+
+Victoria
+2 Pimlico
+2 Green Park
+2 St James Park
+1 Sloane Square
+2 St James Park
+
+Pimlico
+3 Vauxhall
+2 Victoria
+
+Vauxhall
+3 Pimlico
+3 Stockwell
+
+Stockwell
+2 Brixton
+3 Vauxhall
+2 Oval
+2 Clapham North
+
+Brixton
+2 Stockwell
+
+Oval
+2 Kennington
+2 Stockwell
+
+Kennington
+2 Elephant and Castle
+3 Waterloo
+2 Oval
+
+Elephant and Castle
+2 Lambeth North
+2 Borough
+2 Kennington
+3 Blackfriars
+
+Lambeth North
+2 Waterloo
+2 Elephant and Castle
+
+Waterloo
+1 Embankment
+2 Lambeth North
+2 Kennington
+5 Bank
+
+Embankment
+1 Charing Cross
+1 Waterloo
+2 Westminster
+2 Temple
+
+Charing Cross
+2 Green Park
+2 Piccadilly Circus
+1 Embankment
+1 Leicester Square
+1 Embankment
+
+Piccadilly Circus
+1 Green Park
+2 Leicester Square
+3 Oxford Circus
+2 Charing Cross
+
+Leicester Square
+2 Piccadilly Circus
+1 Covent Garden
+1 Tottenham Court Road
+1 Charing Cross
+
+Covent Garden
+1 Leicester Square
+2 Holborn
+
+Holborn
+2 Covent Garden
+1 Russell Square
+2 Tottenham Court Road
+1 Chancery Lane
+
+Russell Square
+1 Holborn
+2 Kings Cross
+
+Kings Cross
+2 Euston
+3 Highbury and Islington
+2 Russell Square
+3 Caledonian Road
+2 Angel
+2 Euston Square
+3 Farringdon
+4 Kentish Town
+
+Euston
+2 Warren Street
+2 Kings Cross
+4 Camden Town
+2 Mornington Crescent
+6 South Hampstead
+
+Warren Street
+1 Oxford Circus
+2 Euston
+1 Goodge Street
+
+Goodge Street
+1 Warren Street
+2 Tottenham Court Road
+
+Tottenham Court Road
+2 Goodge Street
+1 Leicester Square
+2 Oxford Circus
+2 Holborn
+
+Camden Town
+2 Kentish Town
+2 Chalk Farm
+2 Mornington Crescent
+4 Euston
+
+Mornington Crescent
+2 Euston
+2 Camden Town
+
+Kentish Town
+1 Tufnell Park
+2 Camden Town
+4 Kings Cross
+
+Tufnell Park
+2 Archway
+1 Kentish Town
+
+Archway
+3 Highgate
+2 Tufnell Park
+
+Highgate
+3 East Finchley
+3 Archway
+
+East Finchley
+3 Finchley Central
+3 Highgate
+
+Finchley Central
+2 West Finchley
+3 East Finchley
+3 Mill Hill East
+
+West Finchley
+2 Woodside Park
+2 Finchley Central
+
+Woodside Park
+2 Totteridge and Whetstone
+2 West Finchley
+
+Totteridge and Whetstone
+4 High Barnet
+2 Woodside Park
+
+High Barnet
+4 Totteridge and Whetstone
+
+Mill Hill East
+3 Finchley Central
+
+Farringdon
+3 Kings Cross
+1 Barbican
+2 City Thameslink
+
+Barbican
+1 Farringdon
+2 Moorgate
+
+Moorgate
+2 Old Street
+2 Bank
+2 Barbican
+2 Liverpool Street
+
+Old Street
+2 Angel
+2 Moorgate
+3 Essex Road
+
+Angel
+2 Kings Cross
+2 Old Street
+
+Essex Road
+3 Old Street
+2 Highbury and Islington
+
+Highbury and Islington
+3 Kings Cross
+2 Finsbury Park
+2 Essex Road
+2 Drayton Park
+2 Canonbury
+2 Caledonian Road
+
+Finsbury Park
+2 Highbury and Islington
+4 Seven Sisters
+2 Arsenal
+1 Manor House
+2 Drayton Park
+
+Seven Sisters
+4 Finsbury Park
+2 Tottenham Hale
+
+Tottenham Hale
+2 Seven Sisters
+2 Blackhorse Road
+
+Blackhorse Road
+2 Tottenham Hale
+2 Walthamstow Central
+
+Walthamstow Central
+2 Blackhorse Road
+
+Arsenal
+1 Holloway Road
+2 Finsbury Park
+
+Holloway Road
+2 Caledonian Road
+1 Arsenal
+
+Caledonian Road
+3 Kings Cross
+2 Holloway Road
+2 Highbury and Islington
+2 Camden Road
+
+Camden Road
+2 Caledonian Road
+2 Kentish Town West
+
+Kentish Town West
+2 Camden Road
+2 Gospel Oak
+
+Gospel Oak
+2 Kentish Town West
+2 Hampstead Heath
+
+Hampstead Heath
+2 Gospel Oak
+2 Finchley Road and Frognal
+
+Finchley Road and Frognal
+2 Hampstead Heath
+2 West Hampstead
+
+West Hampstead
+2 Kilburn
+1 Finchley Road
+2 Finchley Road and Frognal
+2 Brondesbury
+
+Kilburn
+2 Willesden Green
+2 West Hampstead
+2 Queens Park
+2 South Hampstead
+
+Dollis Hill
+2 Neasden
+2 Willesden Green
+
+Neasden
+3 Wembley Park
+2 Dollis Hill
+
+Wembley Park
+4 Kingsbury
+3 Neasden
+2 Preston Road
+7 Finchley Road
+
+Kingsbury
+2 Queensbury
+4 Wembley Park
+
+Queensbury
+2 Canons Park
+2 Kingsbury
+
+Canons Park
+3 Stanmore
+2 Queensbury
+
+Stanmore
+3 Canons Park
+
+Preston Road
+2 Northwick Park
+2 Wembley Park
+
+Northwick Park
+2 Harrow on the Hill
+2 Preston Road
+
+Harrow on the Hill
+5 North Harrow
+3 West Harrow
+2 Northwick Park
+
+North Harrow
+3 Pinner
+5 Harrow on the Hill
+
+Pinner
+2 Northwood Hills
+3 North Harrow
+
+Northwood Hills
+2 Northwood
+2 Pinner
+
+Northwood
+3 Moor Park
+2 Northwood Hills
+
+Moor Park
+4 Rickmansworth
+4 Croxley
+3 Northwood
+
+Rickmansworth
+4 Chorleywood
+4 Moor Park
+
+Chorleywood
+4 Chalfont and Latimer
+4 Rickmansworth
+
+Chalfont and Latimer
+4 Amersham
+7 Chesham
+4 Chorleywood
+
+Amersham
+4 Chalfont and Latimer
+
+Chesham
+7 Chalfont and Latimer
+
+Croxley
+4 Moor Park
+2 Watford
+
+Watford
+2 Croxley
+
+West Harrow
+3 Harrow on the Hill
+2 Rayners Lane
+
+Rayners Lane
+2 South Harrow
+2 Eastcote
+2 West Harrow
+
+South Harrow
+2 Rayners Lane
+3 Sudbury Hill
+
+Sudbury Hill
+3 South Harrow
+2 Sudbury Town
+
+Sudbury Town
+2 Sudbury Hill
+3 Alperton
+
+Alperton
+3 Sudbury Hill
+2 Park Royal
+
+Park Royal
+2 Alperton
+2 North Ealing
+
+North Ealing
+2 Park Royal
+2 Ealing Common
+
+Ealing Common
+2 North Ealing
+2 Acton Town
+4 Ealing Broadway
+
+Acton Town
+2 Ealing Common
+3 South Ealing
+2 Chiswick Park
+
+South Ealing
+3 Acton Town
+1 Northfields
+
+Northfields
+1 South Ealing
+2 Boston Manor
+
+Boston Manor
+2 Northfields
+3 Osterley
+
+Osterley
+3 Boston Manor
+2 Hounslow East
+
+Hounslow East
+2 Osterley
+1 Hounslow Central
+
+Hounslow Central
+1 Hounslow East
+2 Hounslow West
+
+Hounslow West
+2 Hounslow Central
+2 Hatton Cross
+
+Hatton Cross
+2 Hounslow West
+4 Heathrow
+
+Heathrow
+5 Hatton Cross
+
+Hammersmith
+4 Turnham Green
+2 Barons Court
+1 Ravenscourt Park
+3 Goldhawk Road
+
+Barons Court
+2 Hammersmith
+3 Earls Court
+1 West Kensington
+
+Earls Court
+3 Barons Court
+2 Gloucester Road
+3 West Kensington
+3 West Brompton
+3 High Street Kensington
+4 Kensington Olympia
+
+Gloucester Road
+2 Earls Court
+2 South Kensington
+3 High Street Kensington
+
+South Kensington
+2 Gloucester Road
+3 Knightsbridge
+2 Sloane Square
+
+Knightsbridge
+3 South Kensington
+1 Hyde Park Corner
+
+Hyde Park Corner
+1 Knightsbridge
+2 Green Park
+
+Sloane Square
+1 Victoria
+2 South Kensington
+
+High Street Kensington
+3 Gloucester Road
+2 Notting Hill Gate
+3 Earls Court
+
+Notting Hill Gate
+1 Holland Park
+2 Queensway
+2 High Street Kensington
+1 Bayswater
+2 High Street Kensington
+1 Bayswater
+
+Holland Park
+2 Shepherds Bush Green
+1 Notting Hill Gate
+
+Shepherds Bush Green
+2 White City
+2 Holland Park
+
+White City
+4 East Acton
+2 Shepherds Bush Green
+
+East Acton
+2 North Acton
+4 White City
+
+North Acton
+3 Hanger Lane
+3 West Acton
+2 East Acton
+
+Hanger Lane
+3 Perivale
+3 North Acton
+
+Perivale
+3 Greenford
+3 Hanger Lane
+
+Greenford
+2 Northolt
+3 Perivale
+
+Northolt
+3 South Ruislip
+2 Greenford
+
+South Ruislip
+2 Ruislip Gardens
+3 Northolt
+
+Ruislip Gardens
+4 West Ruislip
+2 South Ruislip
+
+West Ruislip
+4 Ruislip Gardens
+
+West Acton
+3 North Acton
+3 Ealing Broadway
+
+Ealing Broadway
+3 West Acton
+4 Ealing Common
+
+Queensway
+2 Notting Hill Gate
+2 Lancaster Gate
+
+Lancaster Gate
+2 Queensway
+2 Marble Arch
+
+Marble Arch
+2 Lancaster Gate
+1 Bond Street
+
+Bond Street
+3 Baker Street
+2 Green Park
+1 Marble Arch
+
+Baker Street
+3 St Johns Wood
+3 Bond Street
+1 Marylebone
+2 Regents Park
+2 Edgware Road
+2 Great Portland Street
+7 Finchley Road
+
+St Johns Wood
+2 Swiss Cottage
+3 Baker Street
+
+Swiss Cottage
+2 Finchley Road
+2 St Johns Wood
+
+Finchley Road
+1 West Hampstead
+2 Swiss Cottage
+7 Wembley Park
+7 Baker Street
+
+Marylebone
+1 Edgware Road
+1 Baker Street
+
+Edgware Road
+2 Paddington
+1 Marylebone
+2 Baker Street
+
+Paddington
+2 Warwick Avenue
+2 Edgware Road
+2 Bayswater
+1 Royal Oak
+
+Warwick Avenue
+1 Maida Vale
+2 Paddington
+
+Maida Vale
+2 Kilburn Park
+1 Warwick Avenue
+
+Kilburn Park
+2 Queens Park
+2 Maida Vale
+
+Queens Park
+2 Kensal Green
+2 Kilburn Park
+2 Kilburn
+
+Kensal Green
+3 Willesden Junction
+2 Queens Park
+
+Willesden Junction
+1 Harlesden
+3 Kensal Green
+2 Kensal Rise
+2 Acton Central
+
+Harlesden
+2 Stonebridge Park
+1 Willesden Junction
+
+Stonebridge Park
+3 Wembley Central
+2 Harlesden
+
+Wembley Central
+2 North Wembley
+3 Stonebridge Park
+
+North Wembley
+1 South Kenton
+2 Wembley Central
+
+South Kenton
+2 Kenton
+1 North Wembley
+
+Kenton
+3 Harrow and Wealdstone
+2 South Kenton
+
+Harrow and Wealdstone
+3 Kenton
+
+Kensal Rise
+2 Brondesbury Park
+2 Willesden Junction
+
+Brondesbury Park
+2 Brondesbury
+2 Kensal Rise
+
+Brondesbury
+2 West Hampstead
+2 Brondesbury Park
+
+Acton Central
+2 Willesden Junction
+2 South Acton
+
+South Acton
+2 Acton Central
+2 Gunnersbury
+
+Gunnersbury
+3 Turnham Green
+2 Kew Gardens
+2 South Acton
+
+Turnham Green
+1 Acton Town
+4 Hammersmith
+2 Chiswick Park
+3 Gunnersbury
+1 Stamford Brook
+
+Chiswick Park
+2 Acton Town
+2 Turnham Green
+
+Stamford Brook
+1 Turnham Green
+2 Ravenscourt Park
+
+Ravenscourt Park
+2 Stamford Brook
+1 Hammersmith
+
+Kew Gardens
+2 Gunnersbury
+3 Richmond
+
+Richmond
+3 Kew Gardens
+
+Bayswater
+1 Notting Hill Gate
+2 Paddington
+
+Royal Oak
+2 Westbourne Park
+1 Paddington
+
+Westbourne Park
+2 Ladbroke Grove
+2 Royal Oak
+
+Ladbroke Grove
+1 Latimer Road
+2 Westbourne Park
+
+Latimer Road
+2 Shepherds Bush
+1 Ladbroke Grove
+
+Shepherds Bush
+1 Goldhawk Road
+2 Latimer Road
+
+Goldhawk Road
+3 Hammersmith
+1 Shepherds Bush
+
+Regents Park
+2 Baker Street
+1 Oxford Circus
+
+Great Portland Street
+2 Baker Street
+2 Euston Square
+
+Euston Square
+2 Great Portland Street
+2 Kings Cross
+
+West Kensington
+1 Barons Court
+3 Earls Court
+
+West Brompton
+3 Earls Court
+1 Fulham Broadway
+
+Fulham Broadway
+1 West Brompton
+2 Parsons Green
+
+Parsons Green
+2 Fulham Broadway
+3 Putney Bridge
+
+Putney Bridge
+3 Parsons Green
+2 East Putney
+
+East Putney
+2 Putney Bridge
+2 Southfields
+
+Southfields
+2 East Putney
+2 Wimbledon Park
+
+Wimbledon Park
+2 Southfields
+3 Wimbledon
+
+Wimbledon
+3 Wimbledon Park
+
+Kensington Olympia
+4 Earls Court
+
+Eastcote
+2 Ruislip Manor
+2 Rayners Lane
+
+Ruislip Manor
+2 Ruislip
+2 Eastcote
+
+Ruislip
+2 Ickenham
+2 Ruislip Manor
+
+Ickenham
+2 Hillingdon
+2 Ruislip
+
+Hillingdon
+4 Uxbridge
+2 Ickenham
+
+Uxbridge
+4 Hillingdon
+
+Willesden Green
+2 Dollis Hill
+2 Kilburn
+
+South Hampstead
+2 Kilburn
+6 Euston
+
+Chalk Farm
+2 Camden Town
+2 Belsize Park
+
+Belsize Park
+2 Chalk Farm
+2 Hampstead
+
+Hampstead
+2 Belsize Park
+4 Golders Green
+
+Golders Green
+4 Hampstead
+2 Brent Cross
+
+Brent Cross
+2 Golders Green
+2 Hendon Central
+
+Hendon Central
+2 Brent Cross
+3 Colindale
+
+Colindale
+3 Hendon Central
+3 Burnt Oak
+
+Burnt Oak
+3 Colindale
+3 Edgware
+
+Edgware
+3 Burnt Oak
+
+Morning Crescent
+2 Camden Town
+2 Euston
+
+Clapham North
+2 Stockwell
+1 Clapham Common
+
+Clapham Common
+1 Clapham North
+2 Clapham South
+
+Clapham South
+2 Clapham Common
+2 Balham
+
+Balham
+2 Clapham South
+2 Tooting Bec
+
+Tooting Bec
+2 Balham
+2 Tooting Broadway
+
+Tooting Broadway
+2 Tooting Bec
+2 Colliers Wood
+
+Colliers Wood
+2 Tooting Broadway
+2 South Wimbledon
+
+South Wimbledon
+2 Colliers Wood
+3 Morden
+
+Morden
+3 South Wimbledon
+
+St James Park
+1 Westminster
+2 Victoria
+
+Westminster
+2 Embankment
+1 St James Park
+
+Chancery Lane
+1 Holborn
+2 St Pauls
+
+St Pauls
+2 Chancery Lane
+2 Bank
+
+Bank
+2 Moorgate
+1 London Bridge
+2 St Pauls
+2 Liverpool Street
+2 Shadwell
+4 Waterloo
+
+London Bridge
+1 Bank
+2 Borough
+4 Blackfriars
+
+Borough
+2 London Bridge
+2 Elephant and Castle
+
+Blackfriars
+1 Mansion House
+2 Temple
+1 Mansion House
+1 City Thameslink
+4 London Bridge
+3 Elephant and Castle
+
+Mansion House
+1 Cannon Street
+1 Blackfriars
+
+Cannon Street
+1 Monument
+1 Mansion House
+
+Monument
+2 Tower Hill
+1 Cannon Street
+
+Tower Hill
+2 Aldgate
+2 Monument
+
+Aldgate
+2 Liverpool Street
+2 Tower Hill
+
+Liverpool Street
+2 Bank
+3 Bethnal Green
+2 Moorgate
+2 Aldgate
+
+Bethnal Green
+3 Liverpool Street
+3 Mile End
+
+Mile End
+3 Bethnal Green
+4 Stratford
+2 Stepney Green
+2 Bow Road
+
+Stratford
+4 Mile End
+3 Leyton
+2 Bow Church
+2 West Ham
+2 Hackney Wick
+
+Leyton
+3 Stratford
+2 Leytonstone
+
+Leytonstone
+2 Leyton
+3 Wanstead
+3 Snaresbrook
+
+Wanstead
+3 Leytonstone
+2 Redbridge
+
+Redbridge
+2 Wanstead
+2 Gants Hill
+
+Gants Hill
+2 Redbridge
+3 Newbury Park
+
+Newbury Park
+3 Gants Hill
+2 Barkingside
+
+Barkingside
+2 Newbury Park
+2 Fairlop
+
+Fairlop
+2 Barkingside
+2 Hainault
+
+Hainault
+2 Fairlop
+2 Grange Hill
+
+Snaresbrook
+3 Leytonstone
+2 South Woodford
+
+South Woodford
+2 Snaresbrook
+2 Woodford
+
+Woodford
+2 South Woodford
+8 Roding Valley
+4 Buckhurst Hill
+
+Bow Church
+2 Stratford
+2 Devons Road
+
+Devons Road
+2 Bow Church
+2 All Saints
+
+All Saints
+2 Devons Road
+2 Poplar
+
+West Ham
+2 Bromley
+1 Plaistow
+2 Canning Town
+2 Stratford
+
+Hackney Wick
+2 Stratford
+2 Homerton
+
+Homerton
+2 Hackney Wick
+2 Hackney Central
+
+Hackney Central
+2 Homerton
+2 Dalston Kingsland
+
+Shadwell
+2 Whitechapel
+2 Wapping
+2 Limehouse
+2 Tower Gateway
+4 Bank
+
+Whitechapel
+2 Aldgate
+2 Stepney Green
+2 Shoreditch
+2 Shadwell
+
+Wapping
+2 Shadwell
+1 Rotherhithe
+
+Aldgate
+3 Tower Hill
+2 Whitechapel
+3 Liverpool Street
+
+Stepney Green
+2 Whitechapel
+2 Mile End
+
+Shoreditch
+2 Whitechapel
+
+Limehouse
+2 Westferry
+2 Shadwell
+
+Westferry
+2 West India Quay
+2 Limehouse
+
+West India Quay
+2 Poplar
+2 Westferry
+2 Canary Wharf
+
+Poplar
+2 All Saints
+2 West India Quay
+2 Blackwall
+
+Blackwall
+2 Poplar
+1 East India
+
+East India
+1 Blackwall
+1 Canning Town
+
+Canning Town
+1 East India
+1 Royal Victoria
+2 Custom House
+2 West Ham
+
+Royal Victoria
+1 Canning Town
+2 Custom House
+
+Custom House
+2 Royal Victoria
+2 Prince Regent
+2 Silvertown
+2 Canning Town
+
+Prince Regent
+2 Custom House
+2 Royal Albert
+
+Royal Albert
+2 Prince Regent
+2 Beckton Park
+
+Beckton Park
+2 Royal Albert
+2 Cyprus
+
+Cyprus
+2 Beckton Park
+2 Gallions Reach
+
+Gallions Reach
+2 Cyprus
+2 Beckton
+
+Silvertown
+2 North Woolrich
+2 Custom House
+
+North Woolrich
+2 Silvertown
+
+Bromley
+2 Bow Road
+2 West Ham
+
+Bow Road
+2 Mile End
+2 Bromley
+
+Plaistow
+1 West Ham
+2 Upton Park
+
+Upton Park
+2 Plaistow
+2 East Ham
+
+East Ham
+2 Upton Park
+5 Barking
+
+Barking
+5 East Ham
+2 Upney
+
+Upney
+2 Barking
+2 Becontree
+
+Becontree
+2 Upney
+2 Dagenham Heathway
+
+Dagenham Heathway
+2 Becontree
+2 Dagenham East
+
+Dagenham East
+2 Dagenham Heathway
+3 Elm Park
+
+Canary Wharf
+2 West India Quay
+2 Heron Quays
+
+Heron Quays
+2 West India Quay
+2 South Quay
+
+South Quay
+2 Heron Quays
+2 Crossharbour
+
+Crossharbour
+2 South Quay
+2 Mudchute
+
+Mudchute
+2 Crossharbour
+2 Island Gardens
+
+Island Gardens
+2 Mudchute
+
+Tower Gateway
+2 Shadwell
+
+Rotherhithe
+1 Wapping
+2 Surrey Quays
+
+Surrey Quays
+2 Rotherhithe
+3 New Cross
+3 New Cross Gate
+
+New Cross
+3 Surrey Quays
+
+New Cross Gate
+3 Surrey Quays
+
+Grange Hill
+2 Chigwell
+2 Hainault
+
+Chigwell
+3 Roding Valley
+2 Grange Hill
+
+Roding Valley
+8 Woodford
+3 Chigwell
+
+Buckhurst Hill
+4 Woodford
+2 Loughton
+
+Loughton
+2 Buckhurst Hill
+4 Debden
+
+Debden
+4 Loughton
+4 Theydon Bois
+
+Theydon Bois
+4 Debden
+3 Epping
+
+Epping
+3 Theydon Bois
+
+Temple
+2 Blackfriars
+2 Embankment
+
+Arnos Grove
+2 Bounds Green
+3 Southgate
+
+Bounds Green
+3 Wood Green
+2 Arnos Grove
+
+Wood Green
+2 Turnpike Lane
+3 Bounds Green
+
+Turnpike Lane
+3 Manor House
+2 Wood Green
+
+Manor House
+1 Finsbury Park
+3 Turnpike Lane
+
+Southgate
+3 Arnos Grove
+2 Oakwood
+
+Oakwood
+2 Southgate
+2 Cockfosters
+
+Cockfosters
+2 Oakwood
+
+Beckton
+2 Gallions Reach
+
+Canonbury
+2 Dalston Kingsland
+2 Highbury and Islington
+
+Dalston Kingsland
+2 Hackney Central
+2 Canonbury
+
+City Thameslink
+2 Farringdon
+1 Blackfriars
+
+Drayton Park
+2 Highbury and Islington
+2 Finsbury Park
+
+Elm Park
+3 Dagenham East
+2 Hornchurch
+
+Hornchurch
+2 Elm Park
+2 Upminster Bridge
+
+Upminster Bridge
+2 Hornchurch
+2 Upminster
+
+Upminster
+2 Upminster Bridge
